@@ -1,0 +1,13 @@
+{
+  "name": "goit-advancedjs-hw-05",
+  "version": "1.0.0",
+  "description":"",
+  "main": "index.js",
+  "scripts":{
+    "start":"web-dev-server --node-resolve --open",
+    "test":"echo \"Error: no test specified\""
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.4.2"
+  }
+}
